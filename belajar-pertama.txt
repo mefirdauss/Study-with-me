@@ -1,0 +1,4 @@
+Target bulan pertama :
+- konsisten belajar html 3x/minggu
+- membuat konten 1x/minggu
+- mencoba menguasai github
